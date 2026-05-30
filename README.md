@@ -14,11 +14,11 @@ The goal of the project is to help decision-makers monitor key business metrics 
 
 ### Executive Dashboard
 
-- Revenue KPI
-- Profit KPI
-- Orders KPI
-- Customers KPI
-- Profit Margin KPI
+- Revenue
+- Profit
+- Orders
+- Customers
+- Profit Margin
 - Revenue Trend
 - Revenue by Category
 - Revenue by Region
@@ -69,6 +69,23 @@ The goal of the project is to help decision-makers monitor key business metrics 
 ### Financial Analytics
 
 ![Financial Analytics](screenshots/financial_analytics.png)
+
+## Business Insights
+
+- Total revenue reached 24.95M with a total profit of 10.50M.
+- Overall profit margin is 42.10%.
+- Moscow is the leading region by revenue.
+- Skincare and Hair Care are the strongest product categories.
+- The customer base includes 500 customers across 8 regions.
+
+## Data Model
+
+The dashboard is based on a star schema model:
+
+- Sales as the fact table
+- Customers as a customer dimension table
+- Products as a product dimension table
+- Calendar as a date dimension table
 
 ## Files
 
