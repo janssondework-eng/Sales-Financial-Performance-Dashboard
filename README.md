@@ -1,5 +1,7 @@
 # Sales & Financial Performance Dashboard
 
+[Русская версия](README_RUS.md)
+
 Interactive Power BI portfolio project for sales, profitability, customer and regional performance analysis.
 
 The dashboard is designed for a management audience: it summarizes revenue, profit, margin, orders, customer segments, regions and top products in a small set of decision-ready pages.
